@@ -1,5 +1,5 @@
 # my-own-cat-command
-Have you ever wonder how cat works? I tried to figure it out!
+Have you ever wonder how cat command works? I tried to figure it out!
 
 ## Prerequisites
 To run this program on your terminal you'll need gcc compiler and make. You can install them on your system with any tutorial from Google. 
